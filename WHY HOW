@@ -1,15 +1,24 @@
-# Vanadium Flow Battery Power & Cooling System for Data Centers
+Vanadium Flow Battery Power & Cooling System for Data Centers
+1. Problem Statement
 
-## 1. Problem Statement
-* Massive energy usage from AI and high-performance computing.
-* Shortage of Copper Transformers  and  heat created in facility.
-* Current systems do not make duel use of system core. 
+    AI & HPC Energy Demands: Massive energy consumption driven by high-density AI workloads and high-performance computing.
 
-## 2. Proposed Solution
-* An integrated electrochemical system offering combined power storage and direct liquid cooling using Vanadium Redox Flow Battery (VRFB) chemistry.
+    Supply Chain & Thermal Bottlenecks: Global shortage of copper transformers paired with intense localized heat generated within facility racks.
 
-## 3. Key Accomplishments & Benefits
-* **PUE Improvement:** Lower overall facility energy consumption.
-* **Direct Heat Dissipation:** Liquid electrolyte cooling designed for high-density racks.
-* **Long-Duration Energy Storage:** Grid-decoupled backup power without diesel emissions.
-* **Safety:** Non-flammable aqueous electrolyte suitable for critical infrastructure.
+    Single-Purpose Core Inefficiencies: Legacy infrastructure relies on single-purpose systems that fail to make dual use of the core energy and cooling transport media.
+
+2. Proposed Solution
+
+    An integrated Electrochemical Power and Cooling System (EPCS) that leverages Vanadium Redox Flow Battery (VRFB) chemistry—acting as "electronic blood" to deliver both power storage and direct liquid cooling simultaneously.
+
+3. Key Accomplishments & Benefits
+
+    Dual-Use Efficiency: Maximizes system core utility by unifying thermal management and power delivery into a single liquid flow loop.
+
+    PUE Improvement: Substantially lowers overall facility energy consumption by bypassing traditional, energy-intensive mechanical chillers.
+
+    Direct Heat Dissipation: Uses circulating liquid electrolyte to capture and dissipate heat directly from high-density server racks.
+
+    Grid Resilience & Long-Duration Storage: Provides grid-decoupled backup power without diesel emissions or transformer over-reliance.
+
+    Enhanced Safety: Utilizes a non-flammable, aqueous electrolyte ideal for indoor and critical infrastructure deployment.
