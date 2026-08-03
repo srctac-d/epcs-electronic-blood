@@ -1,24 +1,20 @@
-Vanadium Flow Battery Power & Cooling System for Data Centers
-1. Problem Statement
+# Vanadium Flow Battery Power & Cooling System for Data Centers
 
-    AI & HPC Energy Demands: Massive energy consumption driven by high-density AI workloads and high-performance computing.
+## 1. Problem Statement
+* **AI & HPC Energy Demands:** Massive energy consumption driven by high-density AI workloads and high-performance computing.
+* **Supply Chain & Thermal Bottlenecks:** Global shortage of copper transformers paired with intense localized heat generated within facility racks.
+* **Single-Purpose Core Inefficiencies:** Legacy infrastructure relies on single-purpose systems that fail to make dual use of the core energy and cooling transport media.
 
-    Supply Chain & Thermal Bottlenecks: Global shortage of copper transformers paired with intense localized heat generated within facility racks.
+---
 
-    Single-Purpose Core Inefficiencies: Legacy infrastructure relies on single-purpose systems that fail to make dual use of the core energy and cooling transport media.
+## 2. Proposed Solution
+* An integrated **Electrochemical Power and Cooling System (EPCS)** that leverages Vanadium Redox Flow Battery (VRFB) chemistry—acting as "electronic blood" to deliver both power storage and direct liquid cooling simultaneously.
 
-2. Proposed Solution
+---
 
-    An integrated Electrochemical Power and Cooling System (EPCS) that leverages Vanadium Redox Flow Battery (VRFB) chemistry—acting as "electronic blood" to deliver both power storage and direct liquid cooling simultaneously.
-
-3. Key Accomplishments & Benefits
-
-    Dual-Use Efficiency: Maximizes system core utility by unifying thermal management and power delivery into a single liquid flow loop.
-
-    PUE Improvement: Substantially lowers overall facility energy consumption by bypassing traditional, energy-intensive mechanical chillers.
-
-    Direct Heat Dissipation: Uses circulating liquid electrolyte to capture and dissipate heat directly from high-density server racks.
-
-    Grid Resilience & Long-Duration Storage: Provides grid-decoupled backup power without diesel emissions or transformer over-reliance.
-
-    Enhanced Safety: Utilizes a non-flammable, aqueous electrolyte ideal for indoor and critical infrastructure deployment.
+## 3. Key Accomplishments & Benefits
+* **Dual-Use Efficiency:** Maximizes system core utility by unifying thermal management and power delivery into a single liquid flow loop.
+* **PUE Improvement:** Substantially lowers overall facility energy consumption by bypassing traditional, energy-intensive mechanical chillers.
+* **Direct Heat Dissipation:** Uses circulating liquid electrolyte to capture and dissipate heat directly from high-density server racks.
+* **Grid Resilience & LDES:** Provides grid-decoupled long-duration backup power without diesel emissions or heavy reliance on transformers.
+* **Enhanced Safety:** Utilizes a non-flammable, aqueous electrolyte ideal for indoor and critical infrastructure deployment.
