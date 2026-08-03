@@ -1,0 +1,15 @@
+# Vanadium Flow Battery Power & Cooling System for Data Centers
+
+## 1. Problem Statement
+* Massive energy usage from AI and high-performance computing.
+* Shortage of Copper Transformers  and  heat created in facility.
+* Current systems do not make duel use of system core. 
+
+## 2. Proposed Solution
+* An integrated electrochemical system offering combined power storage and direct liquid cooling using Vanadium Redox Flow Battery (VRFB) chemistry.
+
+## 3. Key Accomplishments & Benefits
+* **PUE Improvement:** Lower overall facility energy consumption.
+* **Direct Heat Dissipation:** Liquid electrolyte cooling designed for high-density racks.
+* **Long-Duration Energy Storage:** Grid-decoupled backup power without diesel emissions.
+* **Safety:** Non-flammable aqueous electrolyte suitable for critical infrastructure.
