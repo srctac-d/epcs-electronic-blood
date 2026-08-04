@@ -1,0 +1,16 @@
+# System Hardware & Components Specification
+
+## 1. Electrochemical Core (VRFB Stack)
+* **Vanadium Electrolyte:** Aqueous $V^{2+}/V^{3+}$ and $V^{4+}/V^{5+}$ solutions.
+* **Proton Exchange Membrane (PEM):** (e.g., Nafion or custom ion-exchange membrane).
+* **Graphite Felt Electrodes & Bipolar Plates:** Conductive current collection with chemical resistance.
+
+## 2. Thermal & Hydraulic Loop (The "Blood Circulatory" System)
+* **Electrolyte Storage Tanks:** Chemically inert (HDPE/PVDF) storage vessels.
+* **Variable-Speed Chemical Pumps:** Magnetic-drive pumps resistant to acidic solutions.
+* **Heat Exchangers / Cold Plates:** Direct-to-chip microchannel cooling blocks attached to server heat loads.
+* **Sensors & Telemetry:** Flow meters, pH sensors, thermocouples, and pressure transducers.
+
+## 3. Power Electronics & Control
+* **Bidirectional DC-DC Converters:** Manages charge/discharge voltage to server bus bars.
+* **BMS / Microcontroller:** (e.g., ESP32, Raspberry Pi, or PLC) reading telemetry and controlling pump speeds via scripts in `/scripts`.
