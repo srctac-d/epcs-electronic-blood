@@ -12,6 +12,7 @@ REQUIRED_FILES = [
     "README.md",
     "INDEX.md",
     "CHANGELOG.md",
+    "01_Architecture_Specs/EPCS_EXEC_SUMMARY.md",
     "01_Architecture_Specs/EPCS_SPEC_01_Utilidor_and_Piping.md",
     "01_Architecture_Specs/EPCS_SPEC_02_System_Design.md",
     "01_Architecture_Specs/EPCS_SPEC_03_Hardware_Components.md",
